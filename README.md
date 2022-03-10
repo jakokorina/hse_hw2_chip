@@ -13,5 +13,5 @@
 До:
 <p float="left">
   <img src="/picture/stat_270_seq.png " width="400" />
-  <img src="/pictures/quality_270_seq.png" width="400" />
+  <img src="/picture/quality_270_seq.png" width="400" />
 </p>
