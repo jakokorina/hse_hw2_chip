@@ -1,47 +1,47 @@
 # hse_hw2_chip
 
-Для работы была выбрана клеточная линия - GM23248 и гистоновая метка - H3K9ac:
+Для работы была выбрана клеточная линия - IMR-90 и гистоновая метка - H3K4me2:
 
 ## Обязательная часть
 
 Сначала сделаем fastqc для 2х реплик + контроль:
 
-`ENCFF270JKL.fastq`
+`ENCFF103PXQ.fastq`
 
-В принципе, можно было не делать подрезание чтений, но мне не жалко пространства на гугл диске, вычислительных ресурсов гугл колаба и своего времени, все ради науки.
+Тут явно подрезание чтений не повредит
 
 До:
 <p float="left">
-  <img src="/picture/stat_270_seq.png " width="400" />
-  <img src="/picture/quality_270_seq.png" width="400" />
+  <img src="/picture/stat_103_seq.png " width="400" />
+  <img src="/picture/quality_103_seq.png" width="400" />
 </p>
 
 После:
 
 <p float="left">
-  <img src="/picture/stat_270_trim.png " width="400" />
-  <img src="/picture/quality_270_trim.png" width="400" />
+  <img src="/picture/stat_103_trim.png " width="400" />
+  <img src="/picture/quality_103_trim.png" width="400" />
 </p>
 
 `ENCFF925DDM.fastq`
 
-А в этом случае делать надо было, вот результат.
+И в этом случае тоже, вот результат.
 До:
 <p float="left">
-  <img src="/picture/stat_925_seq.png " width="400" />
-  <img src="/picture/quality_925_seq.png" width="400" />
+  <img src="/picture/stat_649_seq.png " width="400" />
+  <img src="/picture/quality_649_seq.png" width="400" />
 </p>
 
 После:
 
 <p float="left">
-  <img src="/picture/stat_925_trim.png " width="400" />
-  <img src="/picture/quality_925_trim.png" width="400" />
+  <img src="/picture/stat_649_trim.png " width="400" />
+  <img src="/picture/quality_649_trim.png" width="400" />
 </p>
 
 `control`
 
-Здесь тоже сдало лучше, нужно было делать.
+Здесь тоже сдало гораздо лучше
 
 До:
 <p float="left">
