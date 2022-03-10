@@ -73,3 +73,12 @@
 </p>
 
 Разница в том, что сначала мы выравниваем первый файл на второй, а потом второй на первый.
+
+## Бонус
+
+<p float="left">
+  <img src="/picture/result.png " width="400" />
+  <img src="/picture/result1.png" width="400" />
+</p>
+
+
