@@ -55,3 +55,9 @@
   <img src="/picture/stat_control_trim.png " width="400" />
   <img src="/picture/quality_control_trim.png" width="400" />
 </p>
+
+### Выравниваем на 14ю хромосому
+
+<p float="left">
+  <img src="/picture/table.png " width="400" />
+</p>
