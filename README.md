@@ -76,6 +76,8 @@
 
 ## Бонус
 
+Картинки очень похожи друг на друга, 
+
 <p float="left">
   <img src="/picture/result.png " width="400" />
   <img src="/picture/result1.png" width="400" />
