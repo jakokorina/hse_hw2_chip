@@ -41,6 +41,8 @@
 
 `control`
 
+Здесь тоже сдало лучше, нужно было делать.
+
 До:
 <p float="left">
   <img src="/picture/stat_control.png " width="400" />
