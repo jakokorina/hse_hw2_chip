@@ -59,5 +59,5 @@
 ### Выравниваем на 14ю хромосому
 
 <p float="left">
-  <img src="/picture/table.png " width="400" />
+  <img src="/picture/table.png " width="800" />
 </p>
